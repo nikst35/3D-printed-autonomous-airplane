@@ -54,7 +54,7 @@ If you're open to collaboration or contributions from the community, outline how
 
 ## License
 
-This project is licensed under the [MIT License](link-to-your-license-file).
+This project is licensed under the [MIT License](https://github.com/nikst35/3D-printed-autonomous-airplane/blob/main/LICENSE).
 
 ---
 
