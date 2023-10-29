@@ -11,6 +11,9 @@ This project aims to create a versatile RC plane platform that can serve as a fo
 - **Wingspan**: 2.05 meters
 - **Fuselage Length**: 1.10 meters
 
+- **Motor**: Turnigy D3530/12 motor with a 9-inch prop
+- **Battery**: 4S Li-ion battery pack
+
 ### Fuselage Construction
 The fuselage comprises five 3D-printed parts and a 1-meter-long carbon fiber tube with a V-shaped tail stabilizer.
 
@@ -29,6 +32,9 @@ The wing is designed in a dihedral configuration and features custom 3D-printed 
 ## Flight Control and Stability
 
 For optimal flight performance and stability, it's advisable to use a flight controller with a gyro. This additional component enhances control and stability during flight. If you plan to implement autonomous GPS flights, a specialized ArduPilot controller is required. This controller facilitates autonomous navigation and waypoint-based flights, offering a wide range of features for advanced flight control and data collection.
+
+## Battery
+The plane is powered by a 4S Li-ion battery pack, providing the necessary energy for extended flights.
 
 ## Assembly Instructions
 
@@ -52,4 +58,4 @@ This project is licensed under the [MIT License](link-to-your-license-file).
 
 ---
 
-Feel free to customize this template by adding more specific details, media, or any other relevant information. Make sure to include a link to your license file and replace "link-to-your-image.jpg" with the actual link to an image of your RC plane.
+Feel free to customize this template by adding more specific details or any other relevant information. Make sure to include a link to your license file and replace "link-to-your-image.jpg" with the actual link to an image of your RC plane.
