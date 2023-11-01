@@ -46,7 +46,7 @@ Include guidance on how to operate the RC plane effectively. This can cover take
 
 ## Media
 
-Add images, videos, or links to recordings that showcase the plane in action. This helps users get a visual sense of the plane's capabilities.
+Images.md
 
 ## Contributing
 
