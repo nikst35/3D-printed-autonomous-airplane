@@ -10,6 +10,7 @@ This project aims to create a versatile RC plane platform that can serve as a fo
 
 - **Wingspan**: 2.05 meters
 - **Fuselage Length**: 1.10 meters
+- **Weight**: 1.4 Kg (without battery)
 
 - **Motor**: Turnigy D3530/12 motor with a 9-inch prop
 - **Battery**: 4S Li-ion battery pack
