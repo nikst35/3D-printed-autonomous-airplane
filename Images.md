@@ -1,6 +1,6 @@
 ## Project Images
 
-Here are some images related to this project:
+Here are some images related to this project, that can assist you with assembly:
 
 1. ![Image 1](https://github.com/nikst35/3D-printed-autonomous-airplane/blob/main/20231030_123549.jpg)
    
