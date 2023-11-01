@@ -45,6 +45,3 @@ The plane is powered by a 4S Li-ion battery pack, providing the necessary energy
 
 This project is licensed under the [MIT License](https://github.com/nikst35/3D-printed-autonomous-airplane/blob/main/LICENSE).
 
----
-
-Feel free to customize this template by adding more specific details or any other relevant information. Make sure to include a link to your license file and replace "link-to-your-image.jpg" with the actual link to an image of your RC plane.
