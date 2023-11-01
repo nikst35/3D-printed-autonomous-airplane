@@ -1,6 +1,6 @@
 # RC Plane with Autonomous Flight Capabilities
 
-![RC Plane Image](link-to-your-image.jpg)
+![RC Plane Image](https://github.com/nikst35/3D-printed-autonomous-airplane/blob/main/20231030_123549.jpg)
 
 ## Project Overview
 
