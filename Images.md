@@ -2,7 +2,7 @@
 
 Here are some images related to this project:
 
-1. ![Image 1](https://photos.app.goo.gl/L5LuhzdCpzEHMQb37)
+1. ![Image 1](https://github.com/nikst35/3D-printed-autonomous-airplane/blob/main/20231030_123549.jpg)
 2. ![Image 2](https://your-google-photos-link/image2.jpg)
 3. ![Image 3](https://your-google-photos-link/image3.jpg)
 
