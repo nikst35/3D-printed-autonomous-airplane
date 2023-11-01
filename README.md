@@ -36,21 +36,10 @@ For optimal flight performance and stability, it's advisable to use a flight con
 ## Battery
 The plane is powered by a 4S Li-ion battery pack, providing the necessary energy for extended flights.
 
-## Assembly Instructions
-
-Provide detailed assembly instructions here, including any tips or considerations for assembling the plane.
-
-## Usage
-
-Include guidance on how to operate the RC plane effectively. This can cover takeoff, landing, recommended flying conditions, and any specific operational procedures.
-
 ## Media
 
-Images.md
+[Images](https://github.com/nikst35/3D-printed-autonomous-airplane/blob/90c149da2d20215f45d4ccdcdba725f464d9b5dc/Images.md)
 
-## Contributing
-
-If you're open to collaboration or contributions from the community, outline how others can get involved or provide feedback. Encourage users to share their experiences and improvements.
 
 ## License
 
